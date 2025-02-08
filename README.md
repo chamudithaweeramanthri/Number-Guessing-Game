@@ -88,10 +88,10 @@ Game ends if selected number > life score
 
 📂 **Repository Structure**
 Copy
-number-combat-game/
-├── game_gui.py       # Main GUI application
-├── game_modules.py   # Core game logic module
-├── README.md         # This documentation
+number-combat-game/<br>
+├── game_gui.py       # Main GUI application.<br>
+├── game_modules.py   # Core game logic module<br>
+├── README.md         # This documentation<br>
 └── requirements.txt  # Dependency list
 
 Happy gaming! 🚀 If you survive all 20 attempts, you'll be a number combat master! 💪
