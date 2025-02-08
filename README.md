@@ -1,7 +1,4 @@
-Here's a professional GitHub README.md file for your project:
 
-markdown
-Copy
 # Number Combat Game 🎮
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
