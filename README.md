@@ -26,7 +26,7 @@ This project combines strategic number combat with GUI elements to create an eng
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/number-combat-game.git
+   git clone https://github.com/chamudithaweeramanthri/number-combat-game.git
    cd number-combat-game
 Install requirements
 bash
